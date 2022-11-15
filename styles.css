@@ -3,3 +3,8 @@ body {
     font-style: italic;
     font-size: x-large
 }
+h1 {
+    color: aqua;
+    font-weight: 500;
+    font-style: normal;
+}
